@@ -1,12 +1,8 @@
 
 /*Swerve Source code adapted from Howard E. Bartlett IV's Pixy swerve development project. 
-All IP and programming in this development project is hereby being granted permanent unlimited 
-licensing to the Kettering University Combat Team, meaning that it can be modified and used in any way desired by the team.*/
+All IP and code in this development project is hereby granted permanent unlimited 
+licensing to the Kettering University Combat Robotics Team, meaning that it can be modified and used in any way desired by the team.*/
 
-
-/*This program is currently only useful as a speed test to act as a benchmark 
-to compare the speeds of different microcontrollers for processing swerve drive code. 
-This is not readily-deployable code and will need some overhaul to be made ready for use.*/
 
 
 /* Written by Howard E. Bartlett IV on 4/20/2020
